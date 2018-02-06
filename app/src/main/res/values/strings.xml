@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FindRecipe</string>
+    <string name="kakao_app_key">2745d2db553e02687a89973f1acbd2cc</string>
+    <string name="kakao_scheme">kakao2745d2db553e02687a89973f1acbd2cc</string>
+    <string name="kakaolink_host">kakaolink</string>
+</resources>
